@@ -1,4 +1,3 @@
-Here is the `README.md` file content you requested:
 
 ```markdown
 # To-Do List App
